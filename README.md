@@ -10,8 +10,8 @@ In this course, You will learn Python in-depth and master Python skills. After c
 
 ## Scenarios
 
-|   Index | Name                                                     | Difficulty   | URL                                                                        |
-|---------|----------------------------------------------------------|--------------|----------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | URL                                                                        |
+|---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |     001 | 📖 Python Variables and Data Types                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271605'>Start Lab</a>       |
 |     002 | 🎯 Elemental Harmony with Python                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271604'>Start Challenge</a> |
 |     003 | 📖 Python Numeric Types                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271576'>Start Lab</a>       |
