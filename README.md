@@ -10,7 +10,7 @@ In this course, You will learn Python in-depth and master Python skills. After c
 
 ## Scenarios
 
-|   Index | Name                                                    | Difficulty   | URL                                                                        |
+|   Index | Name                                                    | Difficulty   | Practice                                                                   |
 |---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |     001 | 📖 Python Variables and Data Types                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271605'>Start Lab</a>       |
 |     002 | 🎯 Elemental Harmony with Python                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271604'>Start Challenge</a> |
@@ -132,4 +132,9 @@ In this course, You will learn Python in-depth and master Python skills. After c
 |     118 | 🎯 Conda Environment Management                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8002'>Start Challenge</a>   |
 |     119 | 📖 Python Machine Learning                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271572'>Start Lab</a>       |
 |     120 | 🎯 Python Machine Learning Detective                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271571'>Start Challenge</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 
