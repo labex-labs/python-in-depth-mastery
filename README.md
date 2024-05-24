@@ -1,6 +1,6 @@
 # Python In-Depth Mastery
 
-![Python In-Depth Mastery](https://cover-creator.labex.io/python-in-depth-mastery.png)
+![Python In-Depth Mastery](https://cover-creator.appbot.io/python-in-depth-mastery.png)
 
 In this course, You will learn Python in-depth and master Python skills. After completing this course, you will be able to write Python programs to solve real-world problems.
 
