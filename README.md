@@ -135,7 +135,7 @@ In this course, You will learn Python in-depth and master Python skills. After c
 
 ## More
 
-- 🔗 [Python Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Python Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
+- 🔗 [ Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [ Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [ Free Tutorials](https://github.com/labex-labs/-free-tutorials)
 
