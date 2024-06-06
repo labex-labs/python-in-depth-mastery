@@ -49,11 +49,11 @@ In this course, You will learn Python in-depth and master Python skills. After c
 |     035 | 📖 Python Arguments and Return Values                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271519'>Start Lab</a>       |
 |     036 | 🎯 Python Maze Navigation Algorithm                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271518'>Start Challenge</a> |
 |     037 | 📖 Python Default Arguments                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271545'>Start Lab</a>       |
-|     038 | 🎯 Number in Range                                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271517'>Start Challenge</a> |
+|     038 | 🎯 Determine Number Within Range                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271517'>Start Challenge</a> |
 |     039 | 📖 Python Keyword Arguments                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271565'>Start Lab</a>       |
 |     040 | 🎯 Frozen Terrain Python Scripting Essentials            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271564'>Start Challenge</a> |
 |     041 | 📖 Python Lambda Functions                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271566'>Start Lab</a>       |
-|     042 | 🎯 Apply Function When True                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271516'>Start Challenge</a> |
+|     042 | 🎯 Apply Predicate-Based Function                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271516'>Start Challenge</a> |
 |     043 | 📖 Python Scope Mastery: Architect the Pythonic Realm    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271588'>Start Lab</a>       |
 |     044 | 🎯 Enchanted Python Scope Secrets                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271587'>Start Challenge</a> |
 |     045 | 📖 Mastering Recursive Functions in Python               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271585'>Start Lab</a>       |
@@ -111,7 +111,7 @@ In this course, You will learn Python in-depth and master Python skills. After c
 |     097 | 📖 Python Math and Random                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271573'>Start Lab</a>       |
 |     098 | 🎯 Roll Dice in Such a Way                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/56364'>Start Challenge</a>  |
 |     099 | 📖 Python Date and Time                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271543'>Start Lab</a>       |
-|     100 | 🎯 Working with Dates and Times in Python                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/54'>Start Challenge</a>     |
+|     100 | 🎯 Simplify Date and Time Handling                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/54'>Start Challenge</a>     |
 |     101 | 📖 Python Data Collections                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271540'>Start Lab</a>       |
 |     102 | 🎯 Find Missing Letters in a String                      | ★★☆          | <a target='_blank' href='https://labex.io/labs/271515'>Start Challenge</a> |
 |     103 | 📖 Python Data Serialization                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271541'>Start Lab</a>       |
