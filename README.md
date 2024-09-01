@@ -104,7 +104,7 @@ In this course, You will learn Python in-depth and master Python skills. After c
 |     090 | 🎯 Implementing a TTL-enabled Property Decorator      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211624'>Start Challenge</a> |
 |     091 | 📖 Python Context Managers                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271535'>Start Lab</a>       |
 |     092 | 🎯 Python Rate Limiter Implementation                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/256145'>Start Challenge</a> |
-|     093 | 📖 Python Regular Expressions                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271586'>Start Lab</a>       |
+|     093 | 📖 Python Regular Expressions Basics                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271586'>Start Lab</a>       |
 |     094 | 🎯 Regular Expression Matching                        | ★★★          | <a target='_blank' href='https://labex.io/labs/108539'>Start Challenge</a> |
 |     095 | 📖 Python Multithreading and Multiprocessing          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271599'>Start Lab</a>       |
 |     096 | 🎯 Guardian of Relics with Python                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271598'>Start Challenge</a> |
