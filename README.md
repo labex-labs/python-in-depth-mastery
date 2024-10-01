@@ -26,8 +26,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                  | Difficulty   | Practice                                                                                                                             |
-|---------|-------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                 | Difficulty   | Practice                                                                                                                             |
+|---------|------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------|
 |     001 | 📖 Python Variables and Data Types                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-python-variables-and-data-types-271605'>Start Lab</a>                     |
 |     002 | 🎯 Elemental Harmony with Python                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-elemental-harmony-with-python-271604'>Start Challenge</a>                 |
 |     003 | 📖 Python Numeric Types                               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-python-numeric-types-271576'>Start Lab</a>                                |
@@ -111,7 +111,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |     081 | 📖 Python File Operations                             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-python-file-operations-271551'>Start Lab</a>                              |
 |     082 | 🎯 Desert File Adventures                             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-desert-file-adventures-271550'>Start Challenge</a>                        |
 |     083 | 📖 Python Using with Statement                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-python-using-with-statement-271608'>Start Lab</a>                         |
-|     084 | 🎯 Float Number With Decimal                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-float-number-with-decimal-56203'>Start Challenge</a>                      |
+|     084 | 🎯 Float Number with Decimal                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-float-number-with-decimal-56203'>Start Challenge</a>                      |
 |     085 | 📖 Python Iterator Mastery Challenge                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-python-iterator-mastery-challenge-271563'>Start Lab</a>                   |
 |     086 | 🎯 Income Tax Calculator                              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-income-tax-calculator-56232'>Start Challenge</a>                          |
 |     087 | 📖 Python Generators to Haunt Sanatorium              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-python-generators-to-haunt-sanatorium-271558'>Start Lab</a>               |
