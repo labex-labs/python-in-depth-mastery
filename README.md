@@ -1,5 +1,9 @@
 # Python In-Depth Mastery
 
+[![Black Friday](https://file.labex.io/images/labex-bf24.png)](https://labex.io/pricing)
+
+> [Black Friday 2024 & Cyber Monday 2024 Deals](https://labex.io/pricing) | Best Price of the Year
+
 [![Python In-Depth Mastery](https://cover-creator.appbot.io/python-in-depth-mastery.png)](https://labex.io/courses/python-in-depth-mastery)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/python-in-depth-mastery)
